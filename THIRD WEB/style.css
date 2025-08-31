@@ -1,0 +1,69 @@
+body{
+background-color:#7a0c6b;
+margin-left: 50px;
+margin-right: 30px;
+}
+
+h1{
+
+margin-right: 750px;
+color: white;
+}
+
+p{
+
+font-size: 20px;
+font-style: italic;
+color: white;
+margin-right: 650px;
+}
+
+h3{
+color: white;
+
+}
+
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+
+}
+
+
+ul{
+	color: white;
+}
+h2{
+	color: white;
+}
+th{
+	color: white;
+	font-style: italic;
+	font-size: 20px;
+}
+ul.dodo img{
+
+width: 180px;
+height: 180px;
+}
+
+td{
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
